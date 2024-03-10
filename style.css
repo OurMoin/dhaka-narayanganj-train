@@ -1,0 +1,27 @@
+.roadTab {
+    background-color: #f8f8f9;
+    margin: 10px;
+    text-align: center;
+}
+
+.activeTab {
+    background-color: greenyellow;
+}
+
+.roadLink {
+    margin: 20px 10px;
+}
+
+.ads {
+    width: 100%;
+    height: auto;
+}
+
+.days {
+    text-align: center;
+}
+
+.centertxt {
+    text-align: center;
+    margin-top: 20px;
+}
