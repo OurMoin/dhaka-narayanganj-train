@@ -1,3 +1,9 @@
+.notice {
+    background-color: red;
+    color: #f8f8f9;
+    padding: 2.5px 0 5px 0;
+}
+
 .roadTab {
     background-color: #f8f8f9;
     margin: 10px;
