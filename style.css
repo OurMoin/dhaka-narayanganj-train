@@ -39,6 +39,14 @@
     color: red;
 }
 
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
+
 
 td:nth-child(even) {
     background-color: #f2f2f2;
